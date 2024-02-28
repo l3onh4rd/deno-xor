@@ -1,0 +1,5 @@
+{
+    "name": "@l3onh4rd/xor",
+    "version": "0.0.1",
+    "exports": "./mod.ts"
+}
